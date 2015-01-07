@@ -5,4 +5,4 @@
 
 ## License
 
-MIT © [Ricardo De PEna]()
+MIT © [Ricardo De Pena]()
