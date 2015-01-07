@@ -1,0 +1,28 @@
+{
+  "name": "sphero-dualshock",
+  "version": "0.0.0",
+  "description": "Sphero controlled with DualShock",
+  "author": {
+    "name": "Ricardo De PEna",
+    "email": "ricardo.depena@gmail.com"
+  },
+  "repository": "rdepena/sphero-dualshock",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "sphero-dualshock",
+    ""
+  ],
+  "dependencies": {
+    "dualshock-controller": "^0.6.7",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-watch": "^3.0.0",
+    "spheron": "0.0.3"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}
